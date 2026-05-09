@@ -21,12 +21,12 @@ Three hypotheses are tested:
 
 ```
 .
-├── Submission Code (Data Collection)/
+├── Data Collection/
 │   ├── Reddit_data_collection_by_subreddits.ipynb   # Reddit collection via PRAW
 │   ├── reddit_data_collect_usong_search query.ipynb  # Reddit search-query collection
 │   └── YouTube_data_collection.ipynb                # YouTube Data API collection
 │
-├── Submission Code (Main Analysis)/
+├── Main Analysis/
 │   ├── EDA.ipynb       # Exploratory data analysis
 │   ├── Hypo1.ipynb     # Sentiment comparison: Reddit vs YouTube
 │   ├── Hypo2.ipynb     # Global events & travel destination discussion
