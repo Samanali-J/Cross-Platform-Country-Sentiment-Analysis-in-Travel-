@@ -1,8 +1,5 @@
 # Social Media Analytics — Travel Destination Sentiment & Network Analysis
 
-**Course:** COSC2671 Social Media and Network Analytics  
-**Assignment:** 2
-
 ## Overview
 
 This project analyses travel-related discussions scraped from **Reddit** and **YouTube** to investigate sentiment trends, the impact of global events on travel interest, and co-mention network structures across countries.
